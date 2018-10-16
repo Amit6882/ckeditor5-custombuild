@@ -1,1 +1,1 @@
-(function(d){d['cs']=Object.assign(d['cs']||{},{a:"Maximize",b:"Drive",c:"Tučné",d:"Kurzíva",e:"Podtržené",f:"Zpět",g:"Znovu",h:"Textový editor, %0",i:"Textový editor"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['cs']=Object.assign(d['cs']||{},{a:"Maximize",b:"Drive",c:"Kurzíva",d:"Tučné",e:"Podtržené",f:"Textový editor",g:"Textový editor, %0",h:"Zpět",i:"Znovu"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

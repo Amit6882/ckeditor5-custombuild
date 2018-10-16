@@ -1,1 +1,1 @@
-(function(d){d['no']=Object.assign(d['no']||{},{a:"Maximize",b:"Drive",c:"Fet",d:"Kursiv",e:"Underline",f:"Undo",g:"Redo",h:"Rich Text Editor, %0",i:"Rich Text Editor"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['no']=Object.assign(d['no']||{},{a:"Maximize",b:"Drive",c:"Kursiv",d:"Fet",e:"Understreket",f:"Tekstredigeringsverktøy for rik tekst",g:"Tekstredigeringsverktøy for rik tekst, %0",h:"Angre",i:"Gjør om"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
