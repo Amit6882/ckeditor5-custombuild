@@ -1,1 +1,1 @@
-(function(d){d['nl']=Object.assign(d['nl']||{},{a:"Maximize",b:"Drive",c:"Cursief",d:"Vet",e:"Onderlijnen",f:"Tekstbewerker",g:"Tekstbewerker, 0%",h:"Ongedaan maken",i:"Opnieuw"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['nl']=Object.assign(d['nl']||{},{a:"Maximize",b:"Vet",c:"Cursief",d:"Onderlijnen",e:"Drive",f:"Ongedaan maken",g:"Opnieuw",h:"Tekstbewerker",i:"Tekstbewerker, 0%"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

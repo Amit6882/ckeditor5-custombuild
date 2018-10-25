@@ -1,1 +1,1 @@
-(function(d){d['sv']=Object.assign(d['sv']||{},{a:"Maximize",b:"Drive",c:"Kursiv",d:"Fet",e:"Understrykning",f:"Rich Text-editor",g:"Rich Text-editor, %0",h:"Ångra",i:"Gör om"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['sv']=Object.assign(d['sv']||{},{a:"Maximize",b:"Fet",c:"Kursiv",d:"Understrykning",e:"Drive",f:"Ångra",g:"Gör om",h:"Rich Text-editor",i:"Rich Text-editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

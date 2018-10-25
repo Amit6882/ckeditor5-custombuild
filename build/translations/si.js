@@ -1,1 +1,1 @@
-(function(d){d['si']=Object.assign(d['si']||{},{a:"Maximize",b:"Drive",c:"ඇලකුරු",d:"තදකුරු",e:"Underline",f:"Rich Text Editor",g:"Rich Text Editor, %0",h:"අහෝසි කරන්න",i:"නැවත කරන්න"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['si']=Object.assign(d['si']||{},{a:"Maximize",b:"තදකුරු",c:"ඇලකුරු",d:"Underline",e:"Drive",f:"අහෝසි කරන්න",g:"නැවත කරන්න",h:"Rich Text Editor",i:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

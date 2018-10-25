@@ -1,1 +1,1 @@
-(function(d){d['en-au']=Object.assign(d['en-au']||{},{a:"Maximize",b:"Drive",c:"Italic",d:"Bold",e:"Underline",f:"Rich Text Editor",g:"Rich Text Editor, %0",h:"Undo",i:"Redo"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['en-au']=Object.assign(d['en-au']||{},{a:"Maximize",b:"Bold",c:"Italic",d:"Underline",e:"Drive",f:"Undo",g:"Redo",h:"Rich Text Editor",i:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
